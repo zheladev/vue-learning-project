@@ -1,6 +1,7 @@
 <template>
   <div class="images">
       <h3>Images</h3>
+      
   </div>
 </template>
 
